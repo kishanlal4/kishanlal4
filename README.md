@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishanlal4
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Text Recognition.
+- 🌱 I’m currently on LLM, Generative AI and RAG.
 - 📫 kishanlal.lal4@gmail.com 
 
 <!---
